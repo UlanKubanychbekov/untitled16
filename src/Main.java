@@ -5,6 +5,6 @@ public class Main {
         cat.age = 2;
         cat.name = "rf";
         System.out.println(cat.name + " " + cat.age);
-        
+
     }
 }
